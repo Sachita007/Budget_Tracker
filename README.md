@@ -1,1 +1,2 @@
-
+# Budget Tracker
+BudgetTracker is a cutting-edge end-to-end budget management application built using a robust technology stack that combines the power of TypeScript ReactJS NextJS PostgreSQL and a variety of other innovative tools. This comprehensive solution empowers users to effectively manage their financial lives by providing a seamless and intuitive interface for tracking income expenses and investments.It also includes the capability to export financial data to CSV files, providing users with a convenient way to analyze and manipulate their financial information
